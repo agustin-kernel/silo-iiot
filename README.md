@@ -40,6 +40,7 @@ Requisitos Previos Para replicar este entorno de monitoreo IIoT, tu infraestruct
   Descargá el código fuente a tu entorno local: 
 
   git clone [https://github.com/agustin-kernel/silo-iiot.git](https://github.com/agustin-kernel/silo-iiot.git) 
+  
   cd silo-iiot
 
 2. Levantar los contenedores:
